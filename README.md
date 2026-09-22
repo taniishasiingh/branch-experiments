@@ -1,3 +1,1 @@
-# branch-experiments
-
-We are going to create a branch, make changes to it, then merge is back to the main branch.
+# This README.md is on the my-new-branch branch
